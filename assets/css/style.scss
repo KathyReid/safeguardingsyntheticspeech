@@ -16,7 +16,7 @@ $white-offset: #f8fcff;   // Light blue-tinted off-white
 $steel: #5c5a5a;          // Gray for secondary text
 
 // Links
-$link-color: $secondary;
+$link-color: $accent-red;
 $link-decoration: none;
 $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
@@ -28,7 +28,7 @@ $font-family-heading: "Calistoga", serif, -apple-system;
 // Footer
 $footer-background-color: $primary;
 $footer-text-color: $white;
-$sub-footer-background-color: darken($primary, 10%);
+$sub-footer-background-color: $black;
 $sub-footer-text-color: $white;
 
 // Bootstrap 5.3.2
@@ -37,7 +37,7 @@ $sub-footer-text-color: $white;
 @import "bootstrap/functions";
 
 // 2. Include our variable overrides here
-@import "bootstrap-variables";
+//@import "bootstrap-variables";
 
 // 3. Include main bootstrap variables and functions
 @import "bootstrap/variables";
