@@ -2,16 +2,21 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
-$black: #2f2f41;
-$white: #ffffff;
-$white-offset: #fff6f8;
-$steel: #5c5a5a;
+
+// Interspeech 2026 color palette
+$primary: #00a0dc;          // Bright cyan blue (from "2026")
+$primary-dark: #0077a8;   // Darker blue
+$secondary: #00b894;      // Green (from "speech")
+$accent-red: #c8102e;     // Red (from "Inter")
+$accent-orange: #ff8c42;  // Orange accent (from illustrations)
+$accent-yellow: #ffd700;  // Yellow/gold (from Sydney Opera House)
+$black: #1a1a1a;          // Rich black for text
+$white: #ffffff;          // Pure white
+$white-offset: #f8fcff;   // Light blue-tinted off-white
+$steel: #5c5a5a;          // Gray for secondary text
 
 // Links
-$link-color: $primary;
+$link-color: $secondary;
 $link-decoration: none;
 $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
