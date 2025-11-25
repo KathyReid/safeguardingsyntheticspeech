@@ -1,5 +1,5 @@
 ---
-title: Safeguarding Synthetic Speech @ Interspeech 2026
+title: 
 layout: page
 description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 intro_image: "images/illustrations/pointing.svg"
@@ -8,13 +8,27 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Safeguards for synthetic speech: Ethical, technical and legal perspectives
+## Safeguards for synthetic speech: Ethical, technical and legal perspectives
+
+### Table of Contents
+
+- [Safeguards for synthetic speech: Ethical, technical and legal perspectives](#safeguards-for-synthetic-speech-ethical-technical-and-legal-perspectives)
+  - [Table of Contents](#table-of-contents)
+  - [Why is this Special Session so needed?](#why-is-this-special-session-so-needed)
+  - [What will this Special Session cover?](#what-will-this-special-session-cover)
+  - [Session Format](#session-format)
+  - [How do I submit to Safeguards for synthetic speech: Ethical, technical and legal perspectives?](#how-do-i-submit-to-safeguards-for-synthetic-speech-ethical-technical-and-legal-perspectives)
+  - [References](#references)
+
+### Why is this Special Session so needed? 
 
 Speech synthesis has advanced rapidly in the last five years (e.g. (X. Chen et al., 2024; Hayashi et al., 2019; Valle, Li, et al., 2020; Valle, Shih, et al., 2020). Some speech synthesis models such as VALL-E require merely seconds of speech data to produce a synthesised voice (S. Chen et al., 2024). Moreover, this technology has been widely adopted due to its new-found accessibility, creating new opportunities for personalised communication, accessibility applications and creative content generation. 
 
 However, these new capabilities have raised significant ethical, legal and social concerns surrounding consent, identity protection, copyright, misuse and authenticity (Burgess et al., 2025). Recent legal developments such as the successful court case brought by German actor Manfred Lehmann - the German voice actor for Bruce Willis - who had his voice cloned without consent by a YouTuber (Reinholz & Schmidt, 2025), and the Ensuring Likeness Voice and Image Security Act (ELVIS) legislated by the US State of Tennessee (Kirkwood, 2025), as well as efforts by industry, such as Hugging Face’s voice consent gate initiative (Mitchell & Kaffe, 2025), have centred the need to establish social, legal and ethical norms for the use of synthesised speech. 
 
 This special session addresses the critical gap between technological capabilities, ethical and legal frameworks for governing and steering synthetic speech systems and establishing social norms for the use of these systems. The field urgently needs interdisciplinary approaches to consent management, deepfake prevention, watermarketing, and other safety mechanisms and safeguarding protocols. 
+
+### What will this Special Session cover? 
 
 The session will explore multiple dimensions of this challenge:
 
@@ -26,7 +40,7 @@ The session will explore multiple dimensions of this challenge:
 
 The objectives are to: (a) establish shared understanding of current challenges and regulatory landscape; (b) present state-of-the-art technical solutions for consent and safety; (c) foster collaboration between technical, legal, and ethical experts; (d) develop recommendations for best practices and standards; and (e) identify critical research gaps requiring community attention.
 
-## Session Format
+### Session Format
 
 The special session will combine:
 
@@ -34,8 +48,14 @@ The special session will combine:
 * Oral presentations of peer-reviewed papers (8-10 papers, 12 minutes each)
 * Panel discussion with industry representatives, legal experts, and researchers (30 minutes)
 
+### How do I submit to Safeguards for synthetic speech: Ethical, technical and legal perspectives? 
 
-## References 
+If the topics in this Special Session are of interest to you, please submit via the general Interspeech Call for Papers process. 
+
+<a href="https://interspeech2026.org/en-AU/pages/calls/call-for-papers" class="button">Visit the Interspeech 2026 Call for Papers</a>
+
+
+### References 
 
 Burgess, J., Carlon, D., & Doyuran, E. B. (2025). Voice AI and authenticity: Current issues and emerging challenges. ARC Centre of Excellence for Automated Decision-Making and Society. https://apo.org.au/node/331920  
 
